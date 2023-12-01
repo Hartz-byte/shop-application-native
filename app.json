@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "shop_application",
+    "slug": "shop_application",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
