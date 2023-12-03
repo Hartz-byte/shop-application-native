@@ -5,6 +5,7 @@ front-end working e-commerce mobile app
 apk link - [Hartz-byte/shopping_app_native](https://drive.google.com/file/d/13IxZsfxy9bVZtW8lv_7ZH_IbY0QY95n1/view?usp=sharing)https://drive.google.com/file/d/13IxZsfxy9bVZtW8lv_7ZH_IbY0QY95n1/view?usp=sharing
 
 functionality of add and remove favorites, add and remove from cart, calculating cart price, and the basic functionality.
+
 screenshots:
 
 ![Screenshot_2023-12-03-13-05-57-81_10c243e930010b3b4d3212bfdde3f253](https://github.com/Hartz-byte/shop-application-native/assets/67004713/2ed45e24-1331-4f61-8f29-de3ef5a71706)
